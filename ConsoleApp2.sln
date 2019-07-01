@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{6EE59490-2873-43E1-AF4C-39F577E16FE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormaterTests", "FormaterTests\FormaterTests.csproj", "{A90B6785-FA45-4E32-BED6-88989AB94A59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6EE59490-2873-43E1-AF4C-39F577E16FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EE59490-2873-43E1-AF4C-39F577E16FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EE59490-2873-43E1-AF4C-39F577E16FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A90B6785-FA45-4E32-BED6-88989AB94A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90B6785-FA45-4E32-BED6-88989AB94A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90B6785-FA45-4E32-BED6-88989AB94A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90B6785-FA45-4E32-BED6-88989AB94A59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
